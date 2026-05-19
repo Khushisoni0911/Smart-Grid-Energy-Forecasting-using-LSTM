@@ -152,7 +152,7 @@ Smart-Grid-Energy-Forecasting-using-LSTM/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-Grid-Energy-Forecasting-using-LSTM.git
+git clone https://github.com/khushisoni/Smart-Grid-Energy-Forecasting-using-LSTM.git
 ```
 
 2. Install dependencies
